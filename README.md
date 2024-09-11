@@ -8,9 +8,9 @@ A disciplina de **Programação Web II** abordou conceitos avançados em desenvo
 
 ## 📂 Projetos
 
-- **Trabalho 1**: [Descrição do Trabalho 1](pasta-trabalho-1/README.md)
-- **Trabalho 2**: [Descrição do Trabalho 2](pasta-trabalho-2/README.md)
-- **Trabalho 3**: [Descrição do Trabalho 3](pasta-trabalho-3/README.md)
+- **Trabalho 1**: [Descrição do Trabalho 1](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/formulario-de-ingresso)
+- **Trabalho 1**: [Descrição do Trabalho 2](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/agenda_contatos)
+- **Trabalho 3**: [Descrição do Trabalho 3](pasta-trabalho-3/README.md) (Ainda não postado)
 
 Cada pasta contém um `README.md` específico que fornece detalhes sobre o desenvolvimento e a funcionalidade de cada projeto.
 
