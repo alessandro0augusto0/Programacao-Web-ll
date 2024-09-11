@@ -41,14 +41,14 @@ Este exercício consiste em construir uma página web com funcionalidades espec�
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/exercicio-formulario-ingresso.git
+   git clone https://github.com/alessandro0augusto0/formulario-de-ingresso.git
    ```
 
 ## 🚀 Como Navegar
 
 1. **Navegue até o Diretório do Projeto**
    ```bash
-   cd exercicio-formulario-ingresso
+   cd formulario-de-ingresso
    ```
 
 2. **Abra a Página `inicio.php`**
