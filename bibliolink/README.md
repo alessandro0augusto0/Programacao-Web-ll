@@ -7,6 +7,7 @@ Bem-vindo ao **Bibliolink**, um sistema completo para gerenciar sua biblioteca c
 ### 🔑 Sistema de Autenticação
 - **Login**: O sistema permite que clientes e funcionários façam login de maneira segura, diferenciando suas permissões.
 - **Usuários**: O funcionário pode cadastrar novos clientes no sistema, que terão acesso limitado às funcionalidades de consulta e devolução de livros.
+- **Foi criado um usuario com cargo de Funcionario para atuar em todos os comandos. Login: `admin@admin.com` - Senha: `admin`**
 
 ### 📋 Cadastro e Gestão
 1. **Cadastro de Usuário**: Permite adicionar novos usuários ao sistema.
